@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Work\\Practice\\DotnetReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\Employees.Presentation.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\employees.presentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\Employees.Presentation.csproj|solutionrelative:dotnet.react\\employees.presentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA2FEB2-225A-43D2-8F4E-E8BAD4363B62}|Employees.Application\\Employees.Application.csproj|d:\\documents\\work\\practice\\dotnetreact\\employees.application\\commands\\employees\\updateemployee\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA2FEB2-225A-43D2-8F4E-E8BAD4363B62}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\commands\\employees\\updateemployee\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\api\\apiconnector.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\api\\apiconnector.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\components\\employees\\employeetable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\components\\employees\\employeetable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\interceptors\\axiosintercepter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\interceptors\\axiosintercepter.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\components\\employees\\employeeform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\components\\employees\\employeeform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\components\\employees\\employeetableitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\components\\employees\\employeetableitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\router\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\router\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|d:\\documents\\work\\practice\\dotnetreact\\dotnet.react\\client\\employees\\src\\utils\\dateformat.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B812265B-01CF-4C63-AD89-AC2AB217D7BB}|dotNet.React\\dotNet.React.csproj|solutionrelative:dotnet.react\\client\\employees\\src\\utils\\dateformat.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.Presentation",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Employees.Presentation.csproj",
+              "RelativeDocumentMoniker": "dotNet.React\\Employees.Presentation.csproj",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Employees.Presentation.csproj",
+              "RelativeToolTip": "dotNet.React\\Employees.Presentation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T08:23:35.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "axiosIntercepter.ts",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\interceptors\\axiosIntercepter.ts",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\interceptors\\axiosIntercepter.ts",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\interceptors\\axiosIntercepter.ts",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\interceptors\\axiosIntercepter.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T07:45:58.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeTableItem.tsx",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeTableItem.tsx",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeTableItem.tsx",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeTableItem.tsx",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeTableItem.tsx",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T06:30:23.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeTable.tsx",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeTable.tsx",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeTable.tsx",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeTable.tsx",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeTable.tsx",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T06:27:15.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dateFormat.ts",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\utils\\dateFormat.ts",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\utils\\dateFormat.ts",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\utils\\dateFormat.ts",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\utils\\dateFormat.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T06:17:22.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\main.tsx",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\main.tsx",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\main.tsx",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\main.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T04:54:41.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.tsx",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\App.tsx",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\App.tsx",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\App.tsx",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\App.tsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T04:53:07.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Program.cs",
+              "RelativeDocumentMoniker": "dotNet.React\\Program.cs",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Program.cs",
+              "RelativeToolTip": "dotNet.React\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:02:23.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\Employees.Application\\Commands\\Employees\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Commands\\Employees\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\Employees.Application\\Commands\\Employees\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "Employees.Application\\Commands\\Employees\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:10:24.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeForm.tsx",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeForm.tsx",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeForm.tsx",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeForm.tsx",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\components\\employees\\EmployeeForm.tsx",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwDIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T04:43:55.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "apiConnector.ts",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\api\\apiConnector.ts",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\api\\apiConnector.ts",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\api\\apiConnector.ts",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\api\\apiConnector.ts",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T06:32:06.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "route.tsx",
+              "DocumentMoniker": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\router\\route.tsx",
+              "RelativeDocumentMoniker": "dotNet.React\\Client\\employees\\src\\router\\route.tsx",
+              "ToolTip": "D:\\Documents\\Work\\Practice\\DotnetReact\\dotNet.React\\Client\\employees\\src\\router\\route.tsx",
+              "RelativeToolTip": "dotNet.React\\Client\\employees\\src\\router\\route.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-25T04:21:07.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\bin\Debug\net8.0\Employees.Contract.deps.json
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\bin\Debug\net8.0\Employees.Contract.dll
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\bin\Debug\net8.0\Employees.Contract.pdb
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\obj\Debug\net8.0\Employees.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\obj\Debug\net8.0\Employees.Contract.AssemblyInfoInputs.cache
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\obj\Debug\net8.0\Employees.Contract.AssemblyInfo.cs
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\obj\Debug\net8.0\Employees.Contract.csproj.CoreCompileInputs.cache
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\obj\Debug\net8.0\Employees.Contract.dll
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\obj\Debug\net8.0\refint\Employees.Contract.dll
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\obj\Debug\net8.0\Employees.Contract.pdb
+D:\Documents\Work\Practice\DotnetReact\Employees.Contract\obj\Debug\net8.0\ref\Employees.Contract.dll

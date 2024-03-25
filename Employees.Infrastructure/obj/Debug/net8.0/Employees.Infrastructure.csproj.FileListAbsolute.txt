@@ -1,0 +1,17 @@
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\bin\Debug\net8.0\Employees.Infrastructure.deps.json
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\bin\Debug\net8.0\Employees.Infrastructure.runtimeconfig.json
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\bin\Debug\net8.0\Employees.Infrastructure.dll
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\bin\Debug\net8.0\Employees.Infrastructure.pdb
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\bin\Debug\net8.0\Employees.Domain.dll
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\bin\Debug\net8.0\Employees.Domain.pdb
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employees.Infrastructure.csproj.AssemblyReference.cache
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employees.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employees.Infrastructure.AssemblyInfoInputs.cache
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employees.Infrastructure.AssemblyInfo.cs
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employees.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employee.BE2B1B24.Up2Date
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employees.Infrastructure.dll
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\refint\Employees.Infrastructure.dll
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employees.Infrastructure.pdb
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\Employees.Infrastructure.genruntimeconfig.cache
+D:\Documents\Work\Practice\DotnetReact\Employees.Infrastructure\obj\Debug\net8.0\ref\Employees.Infrastructure.dll
